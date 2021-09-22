@@ -1,0 +1,22 @@
+{
+  "name": "sample_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^15.0.0"
+  },
+  "dependencies": {
+    "python": "^0.0.4",
+    "python-shell": "^3.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "shell": "^0.8.4"
+  }
+}
